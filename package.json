@@ -1,0 +1,14 @@
+{
+  "name": "untitled-js-game",
+  "scripts": {
+    "dev": "parcel app/index.html",
+    "build": "parcel build app/index.html",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.5.1"
+  }
+}
